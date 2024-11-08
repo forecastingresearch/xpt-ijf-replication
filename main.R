@@ -1,0 +1,8 @@
+start_time <- Sys.time()
+source("misc.R")
+setwd("..")
+source("tables.R")
+setwd("..")
+source("figures.R")
+end_time <- Sys.time()
+print(end_time - start_time)

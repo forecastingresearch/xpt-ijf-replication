@@ -1,0 +1,11 @@
+"Group","Hours.on.X.risk","percentage"
+"Experts","0-50 hours",0.1625
+"Experts","50-200 hours",0.3875
+"Experts","200-1,000 hours",0.275
+"Experts","1,000+ hours",0.1625
+"Experts","Did not answer",0.0125
+"Superforecasters","0-50 hours",0.449438202247191
+"Superforecasters","50-200 hours",0.415730337078652
+"Superforecasters","200-1,000 hours",0.101123595505618
+"Superforecasters","1,000+ hours",0.0112359550561798
+"Superforecasters","Did not answer",0.0224719101123595
