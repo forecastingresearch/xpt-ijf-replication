@@ -23,7 +23,7 @@ The package contains the following:
 
 The analysis was run with `R (version 4.4.1)` and all the necessary packages and their versions are:
 - `dplyr 1.1.4`
-- `lubridade 1.9.3`
+- `lubridate 1.9.3`
 - `ggplot2 3.5.1`
 - `scales 1.3.0`
 - `boot 1.3.30`
